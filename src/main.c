@@ -8,5 +8,6 @@ int main() {
     // test master
     // conflict test master
     // conflict test branch3
+    print(123456);
     return 0;
 }
